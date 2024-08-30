@@ -20,3 +20,4 @@
 - [이동](https://github.com/Blue-B/danawa_product_price/blob/main/main.py#L10) 텔레그램 봇 토큰 수정 (필수)
 - [이동](https://github.com/Blue-B/danawa_product_price/blob/main/main.py#L11) 텔레그램 chat_id 수정 (필수)
 - [이동](https://github.com/Blue-B/danawa_product_price/blob/main/main.py#L22) user-agent 수정 (선택)
+- [이동](https://github.com/Blue-B/danawa_product_price/blob/main/main.py#L55) 실행 주기 설정 (선택)
